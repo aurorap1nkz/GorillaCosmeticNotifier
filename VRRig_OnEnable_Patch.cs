@@ -2,7 +2,7 @@
 // Type: GorillaCosmeticNotifier.VRRig_OnEnable_Patch
 // Assembly: GorillaCosmeticNotifier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 53B13164-D047-4FF6-957E-5DC8218702D8
-// Assembly location: C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\GorillaCosmeticNotifier.dll
+// Assembly location: C:\Users\erich\Downloads\GorillaCosmeticNotifier.dll
 
 using GorillaNetworking;
 using GorillaNotifications;
